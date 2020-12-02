@@ -1,10 +1,12 @@
 # Ejemplos de AWS S3 para NodeJS
 
-## El repositorio contiene un conjunto de scripts en Node.js que utiliza el SDK de AWS para Node.js
+### El repositorio contiene un conjunto de scripts en Node.js que utiliza el SDK de AWS para Node.js
 
-## Cada script contiene una accion específica a realizar sobre S3
+### Cada script contiene una accion específica a realizar sobre S3
 
-## Recuerda almacenar tus credenciales en: 
+### Recuerda almacenar tus credenciales en: 
+
+### ~/.aws/credentials en Mac/Linux o bien en C:\Users\USERNAME\.aws\credentials en Windows
 
 ```
 [default]
