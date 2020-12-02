@@ -6,7 +6,7 @@
 
 ### Recuerda almacenar tus credenciales en: 
 
-### ~/.aws/credentials en Mac/Linux o bien en C:\Users\USERNAME\.aws\credentials en Windows
+### ~/.aws/credentials en Mac/Linux o bien en C:\Users\USERNAME\ .aws\credentials en Windows
 
 ```
 [default]
