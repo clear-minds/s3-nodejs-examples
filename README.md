@@ -1,5 +1,18 @@
-# AWS S3 for Node.js Examples
+# Ejemplos de AWS S3 para NodeJS
 
-A set of short Node.js scripts to show using AWS SDK for Node.js to implement S3 as a simple object store.
+##El repositorio contiene un conjunto de scripts en Node.js que utiliza el SDK de AWS para Node.js
 
+##Cada script contiene una accion específica a realizar sobre S3
+
+##Recuerda almacenar tus credenciales en: 
+
+```
+[default]
+
+
+aws_access_key_id = your_access_key
+
+
+aws_secret_access_key = your_secret_key
+```
 
